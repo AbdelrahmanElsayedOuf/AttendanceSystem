@@ -1,0 +1,43 @@
+body {
+    background-image: url("../images/login.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.container-fluid {
+    height: 100vh;
+
+}
+
+form {
+    font-size: 1.2rem;
+    flex-wrap: nowrap;
+    background-color: rgba(0, 0, 0, 0.123);
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.521);
+    font-weight: 500;
+}
+
+input[type=button],
+a {
+    height: 2.5rem;
+}
+
+span {
+    font-size: .75rem;
+}
+
+#register:hover{
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
+
+#register{
+    text-align: center;
+}
+
+i{
+    padding-right: 5px;
+}

@@ -1,0 +1,2 @@
+Run json server by:
+json-server --watch db.json --id username

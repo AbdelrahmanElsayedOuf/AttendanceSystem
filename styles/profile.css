@@ -1,0 +1,164 @@
+body {
+    padding-top: 3em;
+    background: url('../images/emp.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+#blank {
+    max-height: 75vh;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    overflow-y: auto;
+}
+
+hr {
+    background-color: #8AAAE5;
+    border: #8AAAE5 0.2rem solid;
+}
+
+
+#pos {
+    position: relative;
+}
+
+.blur {
+    filter: blur(5px);
+}
+
+#datepicker,
+#rangeCalendar {
+    display: none;
+    position: absolute;
+    transition: 1s;
+    border: none;
+    outline: none;
+    box-shadow: 2px 2px 5px #8AAAE5;
+    z-index: 3;
+    height: 3rem;
+    font-size: 2.5rem;
+    color: #333;
+    top: 0;
+    left: calc(50% - 5em);
+    font-size: 1.3rem;
+    width: 10em;
+}
+
+.btn:hover {
+    background-color: #5c8ae0 !important;
+}
+
+.main {
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topbar {
+    background-color: #8AAAE5;
+    overflow: hidden;
+}
+
+.topbar span {
+    float: right;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px 26px;
+    font-size: 26;
+    font-weight: bold;
+}
+
+.topbar span:hover,
+.topbar span:focus {
+    background-color: white;
+    color: #333;
+    cursor: pointer;
+}
+
+.sidebar {
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+}
+
+.sidebar a {
+    color: white;
+    padding-bottom: 10px;
+    font-size: 25px;
+    text-decoration: none;
+    width: 10 rem !important;
+}
+
+.card {
+    position: relative;
+    font-display: flex;
+    flex-direction: column;
+}
+
+.content {
+    background-color: whitesmoke;
+}
+
+table {
+    height: max-content;
+    width: 100%;
+    margin: auto;
+    border: 5px solid #8AAAE5;
+    padding: 6px;
+    border-radius: 15px;
+    text-align: center;
+    border-collapse: separate;
+    overflow: auto;
+    table-layout: fixed;
+}
+
+thead {
+    background-color: #8AAAE5;
+    color: white;
+    inset-block-start: 0;
+    position: sticky;
+}
+
+th {
+    background-color: #8AAAE5;
+    color: black;
+    padding: 7px;
+    border-radius: 10px;
+    overflow-x: auto;
+}
+
+th:hover {
+    background-color: rgb(0, 183, 255);
+}
+
+td {
+    border: 2px solid #8AAAE5;
+    padding: 7px;
+    border-radius: 10px;
+    color: black;
+    overflow-x: auto;
+}
+
+td:hover {
+    background-color: rgb(146, 233, 255);
+    border-color: wheat;
+}
+
+.btn {
+    background-color: #8AAAE5;
+    color: white !important;
+}
+
+#buttonBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#logout{
+    background-color: #678ccf;
+    margin-left: 1em;
+    margin-top: 0.8em;
+}

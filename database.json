@@ -1,0 +1,1476 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "fady22",
+      "password": "pl76VP0PoAR3y",
+      "fname": "Fady",
+      "lname": "Samy",
+      "address": "Cairo",
+      "email": "fady45@outlook.com",
+      "age": "30",
+      "role": "Employee"
+    },
+    {
+      "id": 4,
+      "username": "farid12",
+      "password": "RA76VP0PoGGGy",
+      "fname": "Farid",
+      "lname": "Ahmed",
+      "address": "Cairo",
+      "email": "ouf910@gmail.com",
+      "age": "23",
+      "role": "Employee"
+    },
+    {
+      "username": "AhmedSHJSL",
+      "password": "R!fctUftAfTQy",
+      "fname": "Ahmed",
+      "lname": "Elagezy",
+      "address": "Mansoura",
+      "email": "ahmedelagezy0@gmail.com",
+      "age": "34",
+      "role": "Employee"
+    },
+    {
+      "username": "Ghaly7878",
+      "password": "RA76VP0PoGGGy",
+      "fname": "Ghaly",
+      "lname": "Hossam",
+      "address": "Cairo",
+      "email": "meme@gmail.com",
+      "age": "23",
+      "role": "Security"
+    },
+    {
+      "username": "Mohammed7878",
+      "password": "102030",
+      "fname": "Mohammed",
+      "lname": "Shady",
+      "address": "Alexandria",
+      "email": "momo@gmail.com",
+      "age": "23",
+      "role": "Security"
+    },
+    {
+      "username": "Hossam7Regk",
+      "password": "DN7dlbeE9NSC9",
+      "fname": "Hossam",
+      "lname": "Ashraf",
+      "address": "Alexandria",
+      "email": "hossam_oop@gmail.com",
+      "age": "27",
+      "role": "Employee"
+    },
+    {
+      "username": "Shawky9090",
+      "password": "203050",
+      "fname": "Shawky",
+      "lname": "Kamel",
+      "address": "Alexandria",
+      "email": "shawky@gmail.com",
+      "age": "23",
+      "role": "Security"
+    },
+    {
+      "username": "Ali84egk",
+      "password": "DN7dlbeE9NSC9",
+      "fname": "Ali",
+      "lname": "Taha",
+      "address": "Cairo",
+      "email": "ali_oop@gmail.com",
+      "age": "27",
+      "role": "Employee"
+    },
+    {
+      "username": "KhalafD9Ohk",
+      "password": "vO6oC0LHY4iQE",
+      "fname": "Khalaf",
+      "lname": "Eldahshory",
+      "address": "Alexandria",
+      "email": "ouf902@gmail.com",
+      "age": "26",
+      "role": "Employee"
+    },
+    {
+      "username": "CarlofF8tE",
+      "password": "6nAMhAJkCA6Wi",
+      "fname": "Carlo",
+      "lname": "Anchelotti",
+      "address": "Madrid",
+      "email": "carlo9979@liverpool.com",
+      "age": "50",
+      "role": "Employee"
+    }
+  ],
+  "attendances": [
+    {
+      "username": "fady22",
+      "userId": "fady22",
+      "lateTimes": 7,
+      "excuseTimes": 3,
+      "absentTimes": 2,
+      "info": [
+        {
+          "date": "5-1-2023",
+          "arrive": "",
+          "out": "",
+          "late": "",
+          "excuse": ""
+        },
+        {
+          "date": "5-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "6-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "7-1-2023",
+          "arrive": "8:35 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 5 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "10-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "11-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "12-1-2023",
+          "arrive": "8:40 am",
+          "out": "11:15 am",
+          "late": "0 hours, 10 minutes",
+          "excuse": "3 hours, 15 minutes"
+        },
+        {
+          "date": "13-1-2023",
+          "arrive": "9:45 am",
+          "out": "3:30 pm",
+          "late": "1 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "14-1-2023",
+          "arrive": "8:49 am",
+          "out": "3:15 pm",
+          "late": "0 hours, 19 minutes",
+          "excuse": "0 hours, 15 minutes"
+        },
+        {
+          "date": "15-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:33 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "17-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "18-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 15 minutes"
+        },
+        {
+          "date": "19-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "20-1-2023",
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "22-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "23-1-2023",
+          "arrive": "8:40 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 10 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "24-1-2023",
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "25-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        }
+      ]
+    },
+    {
+      "username": "Hossam7Regk",
+      "userId": "Hossam7Regk",
+      "lateTimes": 5,
+      "excuseTimes": 7,
+      "absentTimes": 1,
+      "info": [
+        {
+          "date": "5-1-2023",
+          "arrive": "",
+          "out": "",
+          "late": "",
+          "excuse": ""
+        },
+        {
+          "date": "6-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "7-1-2023",
+          "arrive": "8:35 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 5 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "8-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 15 minutes"
+        },
+        {
+          "date": "9-1-2023",
+          "arrive": "8:35 am",
+          "out": "3:00 pm",
+          "late": "0 hours, 5 minutes",
+          "excuse": "0 hours, 30 minutes"
+        },
+        {
+          "date": "10-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "11-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "12-1-2023",
+          "arrive": "8:40 am",
+          "out": "11:15 am",
+          "late": "0 hours, 10 minutes",
+          "excuse": "3 hours, 15 minutes"
+        },
+        {
+          "date": "13-1-2023",
+          "arrive": "9:45 am",
+          "out": "3:00 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 30 minutes"
+        },
+        {
+          "date": "14-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 15 minutes"
+        },
+        {
+          "date": "15-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:33 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "17-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:18 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 12 minutes"
+        },
+        {
+          "date": "18-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 15 minutes"
+        },
+        {
+          "date": "19-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "20-1-2023",
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "22-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "23-1-2023",
+          "arrive": "8:40 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 10 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "24-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "25-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        }
+      ]
+    },
+    {
+      "username": "AhmedSHJSL",
+      "userId": "AhmedSHJSL",
+      "lateTimes": 6,
+      "excuseTimes": 2,
+      "absentTimes": 2,
+      "info": [
+        {
+          "date": "5-1-2023",
+          "arrive": "",
+          "out": "",
+          "late": "",
+          "excuse": ""
+        },
+        {
+          "date": "5-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "6-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "7-1-2023",
+          "arrive": "8:35 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 5 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "10-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "11-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "12-1-2023",
+          "arrive": "8:40 am",
+          "out": "11:15 am",
+          "late": "0 hours, 10 minutes",
+          "excuse": "3 hours, 15 minutes"
+        },
+        {
+          "date": "13-1-2023",
+          "arrive": "9:45 am",
+          "out": "3:30 pm",
+          "late": "1 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "14-1-2023",
+          "arrive": "8:49 am",
+          "out": "3:15 pm",
+          "late": "0 hours, 19 minutes",
+          "excuse": "0 hours, 15 minutes"
+        },
+        {
+          "date": "15-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:33 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "17-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "18-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 15 minutes"
+        },
+        {
+          "date": "19-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "20-1-2023",
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "22-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "23-1-2023",
+          "arrive": "8:40 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "24-1-2023",
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "25-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        }
+      ]
+    },
+    {
+      "username": "Mohammed7878",
+      "userId": "Mohammed7878",
+      "lateTimes": 6,
+      "excuseTimes": 8,
+      "absentTimes": 1,
+      "info": [
+        {
+          "date": "5-1-2023",
+          "arrive": "",
+          "out": "",
+          "late": "",
+          "excuse": ""
+        },
+        {
+          "date": "6-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "7-1-2023",
+          "arrive": "8:35 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 5 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "8-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 15 minutes"
+        },
+        {
+          "date": "9-1-2023",
+          "arrive": "8:35 am",
+          "out": "3:00 pm",
+          "late": "0 hours, 5 minutes",
+          "excuse": "0 hours, 30 minutes"
+        },
+        {
+          "date": "10-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "11-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "12-1-2023",
+          "arrive": "8:40 am",
+          "out": "11:15 am",
+          "late": "0 hours, 10 minutes",
+          "excuse": "3 hours, 15 minutes"
+        },
+        {
+          "date": "13-1-2023",
+          "arrive": "9:45 am",
+          "out": "3:00 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 30 minutes"
+        },
+        {
+          "date": "14-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 15 minutes"
+        },
+        {
+          "date": "15-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:33 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "17-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:18 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 12 minutes"
+        },
+        {
+          "date": "18-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 15 minutes"
+        },
+        {
+          "date": "19-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "20-1-2023",
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "22-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "23-1-2023",
+          "arrive": "8:40 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 10 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "24-1-2023",
+          "arrive": "8:50 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 20 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "25-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 15 minutes"
+        }
+      ]
+    },
+    {
+      "username": "Ali84egk",
+      "userId": "Ali84egk",
+      "lateTimes": 8,
+      "excuseTimes": 4,
+      "absentTimes": 3,
+      "info": [
+        {
+          "date": "5-1-2023",
+          "arrive": "",
+          "out": "",
+          "late": "",
+          "excuse": ""
+        },
+        {
+          "date": "5-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "6-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "7-1-2023",
+          "arrive": "8:35 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 5 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "10-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "11-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "12-1-2023",
+          "arrive": "8:40 am",
+          "out": "11:15 am",
+          "late": "0 hours, 10 minutes",
+          "excuse": "3 hours, 15 minutes"
+        },
+        {
+          "date": "13-1-2023",
+          "arrive": "9:45 am",
+          "out": "3:30 pm",
+          "late": "1 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "14-1-2023",
+          "arrive": "8:49 am",
+          "out": "3:15 pm",
+          "late": "0 hours, 19 minutes",
+          "excuse": "0 hours, 15 minutes"
+        },
+        {
+          "date": "15-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:33 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "17-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "18-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 15 minutes"
+        },
+        {
+          "date": "19-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "20-1-2023",
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "22-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "23-1-2023",
+          "arrive": "8:40 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 10 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "24-1-2023",
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "25-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "24-2-2023",
+          "arrive": "9:55 am",
+          "late": "1 hours, 25 minutes",
+          "out": "9:55 am",
+          "excuse": "5 hours, 35 minutes"
+        }
+      ]
+    },
+    {
+      "username": "Shawky9090",
+      "userId": "Shawky9090",
+      "lateTimes": 5,
+      "excuseTimes": 7,
+      "absentTimes": 1,
+      "info": [
+        {
+          "date": "5-1-2023",
+          "arrive": "",
+          "out": "",
+          "late": "",
+          "excuse": ""
+        },
+        {
+          "date": "6-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "7-1-2023",
+          "arrive": "8:35 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 5 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "8-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 15 minutes"
+        },
+        {
+          "date": "9-1-2023",
+          "arrive": "8:35 am",
+          "out": "3:00 pm",
+          "late": "0 hours, 5 minutes",
+          "excuse": "0 hours, 30 minutes"
+        },
+        {
+          "date": "10-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "11-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "12-1-2023",
+          "arrive": "8:40 am",
+          "out": "11:15 am",
+          "late": "0 hours, 10 minutes",
+          "excuse": "3 hours, 15 minutes"
+        },
+        {
+          "date": "13-1-2023",
+          "arrive": "9:45 am",
+          "out": "3:00 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 30 minutes"
+        },
+        {
+          "date": "14-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 15 minutes"
+        },
+        {
+          "date": "15-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:33 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "17-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:18 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 12 minutes"
+        },
+        {
+          "date": "18-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 15 minutes"
+        },
+        {
+          "date": "19-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "20-1-2023",
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "22-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "23-1-2023",
+          "arrive": "8:40 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 10 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "24-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "25-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        }
+      ]
+    },
+    {
+      "username": "Ghaly7878",
+      "userId": "Ghaly7878",
+      "lateTimes": 6,
+      "excuseTimes": 2,
+      "absentTimes": 2,
+      "info": [
+        {
+          "date": "5-1-2023",
+          "arrive": "",
+          "out": "",
+          "late": "",
+          "excuse": ""
+        },
+        {
+          "date": "5-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "6-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "7-1-2023",
+          "arrive": "8:35 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 5 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "10-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "11-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "12-1-2023",
+          "arrive": "8:40 am",
+          "out": "11:15 am",
+          "late": "0 hours, 10 minutes",
+          "excuse": "3 hours, 15 minutes"
+        },
+        {
+          "date": "13-1-2023",
+          "arrive": "9:45 am",
+          "out": "3:30 pm",
+          "late": "1 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "14-1-2023",
+          "arrive": "8:49 am",
+          "out": "3:15 pm",
+          "late": "0 hours, 19 minutes",
+          "excuse": "0 hours, 15 minutes"
+        },
+        {
+          "date": "15-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:33 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "17-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "18-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 15 minutes"
+        },
+        {
+          "date": "19-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "20-1-2023",
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "22-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "23-1-2023",
+          "arrive": "8:40 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "24-1-2023",
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "25-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        }
+      ]
+    },
+    {
+      "username": "farid12",
+      "userId": "farid12",
+      "lateTimes": 6,
+      "excuseTimes": 8,
+      "absentTimes": 1,
+      "info": [
+        {
+          "date": "5-1-2023",
+          "arrive": "",
+          "out": "",
+          "late": "",
+          "excuse": ""
+        },
+        {
+          "date": "6-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "7-1-2023",
+          "arrive": "8:35 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 5 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "8-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 15 minutes"
+        },
+        {
+          "date": "9-1-2023",
+          "arrive": "8:35 am",
+          "out": "3:00 pm",
+          "late": "0 hours, 5 minutes",
+          "excuse": "0 hours, 30 minutes"
+        },
+        {
+          "date": "10-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "11-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "12-1-2023",
+          "arrive": "8:40 am",
+          "out": "11:15 am",
+          "late": "0 hours, 10 minutes",
+          "excuse": "3 hours, 15 minutes"
+        },
+        {
+          "date": "13-1-2023",
+          "arrive": "9:45 am",
+          "out": "3:00 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 30 minutes"
+        },
+        {
+          "date": "14-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 15 minutes"
+        },
+        {
+          "date": "15-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:33 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "16-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "17-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:18 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 12 minutes"
+        },
+        {
+          "date": "18-1-2023",
+          "arrive": "8:30 am",
+          "out": "2:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "1 hours, 15 minutes"
+        },
+        {
+          "date": "19-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "20-1-2023",
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "arrive": "8:45 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 15 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "22-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "23-1-2023",
+          "arrive": "8:40 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 10 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "24-1-2023",
+          "arrive": "8:50 am",
+          "out": "3:30 pm",
+          "late": "0 hours, 20 minutes",
+          "excuse": "0 hours, 0 minutes"
+        },
+        {
+          "date": "25-1-2023",
+          "arrive": "8:30 am",
+          "out": "3:15 pm",
+          "late": "0 hours, 0 minutes",
+          "excuse": "0 hours, 15 minutes"
+        }
+      ]
+    },
+    {
+      "username": "KhalafD9Ohk",
+      "userId": "KhalafD9Ohk",
+      "lateTimes": 1,
+      "excuseTimes": 1,
+      "absentTimes": 1,
+      "info": [
+        {
+          "date": "25-1-2023",
+          "arrive": "",
+          "out": "",
+          "late": "",
+          "excuse": ""
+        },
+        {
+          "date": "24-2-2023",
+          "arrive": "9:49 am",
+          "late": "1 hours, 19 minutes",
+          "out": "9:53 am",
+          "excuse": "5 hours, 37 minutes"
+        }
+      ]
+    },
+    {
+      "username": "CarlofF8tE",
+      "userId": "CarlofF8tE",
+      "lateTimes": 1,
+      "excuseTimes": 0,
+      "absentTimes": 1,
+      "info": [
+        {
+          "date": "24-2-2023",
+          "arrive": "",
+          "out": "",
+          "late": "",
+          "excuse": ""
+        },
+        {
+          "date": "24-2-2023",
+          "arrive": "1:19 pm",
+          "out": "not left yet",
+          "late": "4 hours, 49 minutes"
+        }
+      ]
+    }
+  ],
+  "Admin": [
+    {
+      "username": "abdo7070",
+      "password": "102030"
+    }
+  ],
+  "RegistrationRequests": [
+    {
+      "username": "MarizBXLtB",
+      "password": "dIbxWpOt4spdx",
+      "fname": "Mariz",
+      "lname": "Maher",
+      "address": "Alexandria",
+      "email": "mariz_python@gmail.com",
+      "age": "26",
+      "role": "Employee"
+    },
+    {
+      "username": "SohailauNa6u",
+      "password": "OsiegL2N1bEvV",
+      "fname": "Sohaila",
+      "lname": "Hany",
+      "address": "Giza",
+      "email": "sohaila_hh@gmail.com",
+      "age": "34",
+      "role": "Security"
+    },
+    {
+      "username": "ElsayedExotj",
+      "password": "W2TGiI3zFcRBQ",
+      "fname": "Elsayed",
+      "lname": "Ouf",
+      "address": "Mansoura",
+      "email": "sayed_oo@gmail.com",
+      "age": "45",
+      "role": "Employee"
+    },
+    {
+      "username": "HussienJQv7Y",
+      "password": "VmGGsHyHARjsJ",
+      "fname": "Hussien",
+      "lname": "Kassem",
+      "address": "Mansoura",
+      "email": "kasabany@gmail.com",
+      "age": "24",
+      "role": "Employee"
+    }
+  ]
+}

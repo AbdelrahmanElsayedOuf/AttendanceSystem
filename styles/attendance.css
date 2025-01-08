@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    background-image: url("../images/ezgif.com-gif-maker.png");
+    background-position: center;
+    background-size: cover;
+}
+
+form{
+    background-color: rgba(0, 0, 0, 0.123);
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.6);
+    font-weight: 500;
+}
+.mt-5{
+    margin-top: 10rem !important;
+}

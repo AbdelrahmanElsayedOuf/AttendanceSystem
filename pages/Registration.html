@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../styles/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../styles/registeration.css">
+    <link rel="icon" href="../images/iti-logo.png" type="image/gif" />
+    <title>Registration</title>
+    <script src="../scripts/jquery-3.1.1.min.js"></script>
+    <script src="../scripts/registration.js" type="module"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <script type="text/javascript">
+        emailjs.init('S6bP6nl0_ftxzBvSx')
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="../scripts/sweetalert2.all.min.js"></script>
+    <link rel="stylesheet" href="sweetalert2.min.css">
+</head>
+
+<body>
+    <div class="container-fluid row justify-content-center align-items-center p-5">
+        <form action="Login.html" class="col-12 col-sm-8 col-lg-5 p-5 rounded">
+            <label for="fname" class="form-label">First Name</label>
+            <input type="text" id="fname" class="form-control mb-2" placeholder="example: Ahmed" required>
+
+            <label for="lname" class="form-label">Last Name</label>
+            <input type="text" id="lname" class="form-control mb-2" placeholder="example: Elsayed" required>
+
+            <label for="address" class="form-label">Address</label>
+            <input type="text" id="address" class="form-control mb-2" placeholder="example: Mansoura" required>
+
+            <label for="mail" class="form-label">E-mail</label>
+            <input type="text" id="mail" class="form-control mb-2" placeholder="example: Ahmed@gmail.com" required>
+
+            <label for="age" class="form-label">Age</label>
+            <input type="number" id="age" class="form-control mb-3 mb-2" min="20" max="50" placeholder="from 20 to 50 years old" required>
+            <div class="type mb-3">
+                <div class="form-check-inline">
+                    <input type="radio" class="form-check-input" name="user" id="Employee" checked>
+                    <label class="form-check-label" for="Employee">Employee</label>
+                </div>
+                <div class="form-check-inline">
+                    <input type="radio" class="form-check-input" name="user" id="Security">
+                    <label class="form-check-label" for="Security">Security</label>
+                </div>
+            </div>
+
+            <input type="submit" class="btn btn-primary">
+            <a href="Login.html" class="btn btn-secondary">Login</a>
+
+            <span class="bg-secondary text-light rounded"></span>
+
+
+        </form>
+    </div>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link href="../styles/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="../scripts/jquery-3.1.1.min.js"></script>
+    <script src="../scripts/login.js" type="module"></script>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <title>Login</title>
+    <link rel="stylesheet" href="../styles/login.css">
+    <link rel="icon" href="../images/iti-logo.png" type="image/gif" />
+</head>
+
+<body>
+
+    <div class="container-fluid row justify-content-center align-items-center p-5">
+        <form action="" target="_self" class="rounded col-11 col-sm-7 col-lg-5  p-3 p-md-5">
+            <label for="username" class="form-label">Username</label>
+            <input type="text" id="username" class="form-control mb-5" placeholder="ex: fady74xyz">
+            <label for="pass" class="form-label">Password</label>
+            <input type="password" id="pass" class="form-control mb-5">
+            <div class="control row justify-content-between align-items-center">
+                <input type="button" class="btn btn-primary col-3" value="Login">
+                <span class="col-4" id="register">Don't have an account?</span>
+                <a href="Registration.html" class="btn btn-secondary col-3" id="signup">Signup</a>
+            </div>
+            <div class="text-center">
+                <span id="warning" class="bg-secondary rounded text-light"></span>
+            </div>
+
+        </form>
+    </div>
+
+
+
+</body>
+
+</html>
